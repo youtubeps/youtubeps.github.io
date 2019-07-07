@@ -17,7 +17,7 @@ title: Professional Spectator
 email: youtubeps@naver.com
 description:  Description of our youtube channel "Professional Spectator"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https:/youtubeps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://youtubeps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: wonkyunglee
 
 # Build settings
