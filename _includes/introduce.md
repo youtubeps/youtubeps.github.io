@@ -14,18 +14,21 @@ We are uploading contents such as 1) Patch notes, 2) Honey Champions from statis
 우리는 구독자들에게 흥미롭고도 도움이 되는 정보를 제공하기위해 노력하고있고, 다음은 우리가 업로드하는 영상 컨텐츠의 예시들이다. 
 
 1. Patch note 정리
+    
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
     " target="_blank"><img src="http://img.youtube.com/vi/o9zjPn9g-rs/0.jpg" 
     alt="patch_note" width="240" height="180" border="10" /></a>
 
     왜 패치가 이런식으로 이루어졌는지 다각도에서 분석하여 유저들에게 이해가 가도록 설명해준다. 
 1. Best couple of bottom champions
+    
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
     " target="_blank"><img src="http://img.youtube.com/vi/IXrFgI5qFvY/0.jpg" 
     alt="bottom_duo" width="240" height="180" border="10" /></a>
 
     riot development api 를 활용하여 데이터를 축적한 이후 첫 번째로 우리가 제공한 컨텐츠는 Best bottom duo 조합을 찾는 것이었다. 우리는 7일동안 한국 지역 그마, 마스터, 챌린저의 match data 를 약 10만 개 얻었으며, 우리가 만든 공식을 사용하여 각 조합의 시너지 스코어를 계산하였다. 우리는 이를 영상으로 제작하여 유튜브에 개시하였고, 상당히 좋은 반응을 얻었다.
 1. Blue team vs Purple team
+    
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
     " target="_blank"><img src="http://img.youtube.com/vi/7ei1fw6pp2U/0.jpg" 
     alt="blue_vs_purple" width="240" height="180" border="10" /></a>
