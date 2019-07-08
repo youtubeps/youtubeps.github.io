@@ -7,7 +7,6 @@ title: Contact
 permalink: /contact/
 ---
 
-If you want to contact me, then please email me.
+If you'd like to contact us, then please email here.
 
 - E-mail : [youtubeps@naver.com](youtubeps@naver.com)
-- Github : [https://github.com/wonkyunglee](https://github.com/wonkyunglee)

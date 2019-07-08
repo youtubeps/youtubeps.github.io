@@ -1,10 +1,9 @@
-# Description of our youtube channel "Professional Spectator
-
-Youtube Channel Link : [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
 
 ## Who are we ?
+Youtube Channel Link : [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
 
 We are managing a Youtube channel called "Professional Spectator", which shows the latest meta and play tips for Korean users through analysis of progamers' play and available statistical data.
+
 
 ## What do we do ? 
 We are uploading contents such as 1) Patch notes, 2) Honey Champions from statistics, 3) Introduction to New Meta, 4) strategies for each champion to learn through professional play, and 5) major news in a patch cycle that runs every two weeks. We are trying to keep track of useful and accurate tips based on statistics as much as possible, so the number of subscribers is rapidly increasing recent few month. So far, basic statistical data such as players' match logs, win, pick and ban rates of each champion, tournament information and patch history have been gathered by referring to lolalytics, probuilds, op.gg (http://op.gg/), fow, champion.gg (http://champion.gg/) and qwer.gg (http://qwer.gg/). However, while running the youtube channel, we could know that there are a lot of information which couldn't obtain from above sites but many of the users wonder. So we started to consider accumulating data through Riot Development APIs and obtaining the statistical values directly needed for the contents.
