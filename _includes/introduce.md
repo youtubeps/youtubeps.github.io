@@ -11,7 +11,7 @@ We are uploading contents such as 1) Patch notes, 2) Honey Champions from statis
 
 ## Examples of our contents
 
-우리는 구독자들에게 흥미롭고도 도움이 되는 정보를 제공하기위해 노력하고있고, 다음은 우리가 업로드하는 영상 컨텐츠의 예시들이다. 
+우리는 구독자들에게 흥미롭고도 도움이 되는 정보를 제공하기위해 노력하고있다. 다음은 우리가 업로드하는 영상 컨텐츠의 예시들이다. 
 
 1. Patch note 정리
     
@@ -19,7 +19,7 @@ We are uploading contents such as 1) Patch notes, 2) Honey Champions from statis
     " target="_blank"><img src="http://img.youtube.com/vi/o9zjPn9g-rs/0.jpg" 
     alt="patch_note" width="240" height="180" border="10" /></a>
 
-    왜 패치가 이런식으로 이루어졌는지 다각도에서 분석하여 유저들에게 이해가 가도록 설명해준다. 
+    공식 패치가 게임에 적용될 때마다, 우리는 왜 패치가 이런식으로 이루어졌는지 다각도에서 분석하여 유저들에게 이해가 가도록 설명해준다. 
 1. 최고의 미드-정글 시너지
     
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
@@ -37,18 +37,16 @@ We are uploading contents such as 1) Patch notes, 2) Honey Champions from statis
 
 ## To-do List
 
-위에서 소개한 컨텐츠들 이외에도 우리가 준비하고 있는 컨텐츠는 매우 많다. production key 를 우리가 얻을 수 있다면, 훨씬 더 빠르고 정확하게 유용하고 흥미로운 정보들을 global 유저들에게 제공해줄 수 있으리라 믿는다. 다음은 몇 가지 준비하고 있는 컨텐츠들이다. 
+위에서 소개한 컨텐츠들 이외에도 우리가 준비하고 있는 컨텐츠는 매우 많다. production key 를 우리가 얻을 수 있다면, 훨씬 더 빠르고 정확하게 유용하고 흥미로운 정보들을 global 유저들에게 제공해줄 수 있으리라 믿는다. 다음은 유튜브 채널 커뮤니티와 댓글로부터 수집된 유저들이 궁금해하는, 혹은 유용하다고 생각하는 컨텐츠들의 일부이다. 우리는 직접 모은 데이터를 활용하여 이들을 분석하고 공유할 예정이다.
 
 1. 챔피언 별로 가장 많이 죽은 위치 (dead zone) 는 어디일까?
 2. 퍼스트 블러드는 승률에 얼마나 영향을 미칠까?
 3. 포지션 별로 와드는 어디에 박는것이 가장 좋을까?
 4. 초반에 1분이상 잠수를 타는 것이 승률에 영향을 얼마나 미칠까?
-5. 바텀 듀오의 famous 조합 끼리의 승률 비교
-6. 게임 승패에 가장 영향을 많이 미치는 position 은 ? 그리고 champion 은 ?
+5. 바텀 듀오의 인기있는 조합 끼리의 승률 비교
+6. 게임 승패에 가장 영향을 많이 미치는 position 은 어디인가?
 
 ## Vision of our team
 
-우리 팀의 비전은, 데이터에 기반하여 모든 롤 유저가 쉽게 메타를 따라가고 흥미를 느낄 수 있도록 다양한 컨텐츠를 제공하고, 신규유저들의 문턱을 낮추는 것이다. 
-
-앞으로도 이 비전에 입각하여 더 많은 lol 유저들이 게임을 계속해서 즐길 수 있도록 다방면으로 노력할 계획을 갖고있다. 그리고 Production key 를 발급받는 것은 이를 효과적으로 빠르게 진행할 수 있게 해줄 것이다.
+우리 팀의 비전은, 데이터에 기반하여 모든 롤 유저가 쉽게 메타를 따라가고 흥미를 느낄 수 있도록 다양한 컨텐츠를 제공하고, 신규유저들의 문턱을 낮추는 것이다. 앞으로도 이 비전에 입각하여 더 많은 lol 유저들이 게임을 계속해서 즐길 수 있도록 다방면으로 노력할 계획을 갖고있다. 그리고 Production key 를 발급받는 것은 이를 효과적으로 빠르게 진행할 수 있게 해줄 것이다.
 
