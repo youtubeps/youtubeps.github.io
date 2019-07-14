@@ -22,8 +22,8 @@ We are uploading contents such as 1) Patch notes, 2) Honey Champions from statis
     공식 패치가 게임에 적용될 때마다, 우리는 왜 패치가 이런식으로 이루어졌는지 다각도에서 분석하여 유저들에게 이해가 가도록 설명해준다. 
 1. 최고의 미드-정글 시너지
     
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-    " target="_blank"><img src="http://img.youtube.com/vi/IXrFgI5qFvY/0.jpg" 
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=zDC5xRsWAY4
+    " target="_blank"><img src="http://img.youtube.com/vi/zDC5xRsWAY4/0.jpg" 
     alt="bottom_duo" width="240" height="180" border="10" /></a>
 
     riot development api 를 활용하여 데이터를 축적한 이후 꾸준히 시청자들에게 제공하는 정보는 바로 '시너지' 라는 키워드이다. 리그오브레전드는 duo 일 때 특별한 시너지를 내는 경우가 많다. 특히 바텀 듀오, 미드-정글 듀오, 탑-정글 듀오가 있다. 하짐나 대부분 단일 챔피언 승률에 대해서는 정보가 많이들 공유되어있으나, 시너지라는 측면에서 유저들이 접근하기는 어렵다. 또한 챔피언 듀오를 사용할 때 어떤식으로 활용해야 하는지에 대한 가이드나 컨텐츠도 부족하다. 우리는 이런 부분에 집중하여 유저들에게 주기적으로 정보를 정리하고 공유하고 있다. 
