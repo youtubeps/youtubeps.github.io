@@ -7,11 +7,12 @@ We are managing a Youtube channel called “Professional Spectator”, which sho
 
 ## What do we do ? 
 We are uploading contents such as 
-1) Patch notes.
-2) OP Champions from statistics.
-3) Introduction to New Meta.
-4) Strategies for each champion to learn through professional play. 
-5) Major news in a patch cycle that runs every two weeks. 
+
+1. Patch notes.
+2. OP Champions from statistics.
+3. Introduction to New Meta.
+4. Strategies for each champion to learn through professional play. 
+5. Major news in a patch cycle that runs every two weeks. 
 
  We are trying to keep track of useful and accurate tips based on statistics as much as possible, so the number of subscribers is rapidly increasing recent few months. So far, basic statistical data such as players’ match logs, win, pick and ban rates of each champion, tournament information and patch history have been gathered by referring to lolalytics, probuilds, op.gg (http://op.gg/), fow, champion.gg (http://champion.gg/) and qwer.gg (http://qwer.gg/). However, while running the youtube channel, we could know that there is a lot of information which cannot be obtained from above sites but many of the users wonder. So we started to consider accumulating data through Riot Development APIs and obtaining the statistical values directly needed for the contents.
 
