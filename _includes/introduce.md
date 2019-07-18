@@ -2,7 +2,7 @@
 ## Who are we ?
 Youtube Channel Link : [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
 
-We are managing a Youtube channel called “Professional Spectator”, which shows the latest meta and play tips for Korean users by analyzing professional players’ plays and available statistical data.
+We are managing a Youtube channel called *“Professional Spectator”*, which shows the latest meta and play tips for Korean users by analyzing professional players’ plays and available statistical data.
 
 
 ## What do we do ? 
@@ -21,21 +21,21 @@ We are uploading contents such as
 
 We are trying to provide our subscribers with useful and interesting information. The following are contents that we will upload.
 
-1. Explaining latest patch note.
+1. **Explaining latest patch note.**
     
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=o9zjPn9g-rs
     " target="_blank"><img src="http://img.youtube.com/vi/o9zjPn9g-rs/0.jpg" 
     alt="patch_note" width="240" height="180" border="10" /></a>
 
     After patch note has been released, we analyze and explain to users in many different angles why Riot had that patch.
-1. Best mid-jungle synergy.
+1. **Best mid-jungle synergy.**
     
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=zDC5xRsWAY4
     " target="_blank"><img src="http://img.youtube.com/vi/zDC5xRsWAY4/0.jpg" 
     alt="bottom_duo" width="240" height="180" border="10" /></a>
 
     By using Riot development api, we accumulate data and consistently provide information of ‘synergy’. In league of legends duo makes huge synergy, such as bottom duo, mid-jungle duo, and top-jungle duo. However we can easily find winning rate of solo play, but in case of synergy there are some obstacles. Moreover there are not many information or tips how players can use champions as duo effectively. So we focus on this information and periodically provide users with this information.
-1. Blue team vs Purple team
+1. **Blue team vs Purple team**
     
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=7ei1fw6pp2U
     " target="_blank"><img src="http://img.youtube.com/vi/7ei1fw6pp2U/0.jpg" 
@@ -57,5 +57,5 @@ There are a lot more contents that we are preparing right now. I believe if we c
 
 ## Vision of our team
 
-Our team’s vision (goal) is to help all league of legends players to keep track of meta, provide contents that players find it interesting and help new players to be attracted to league of legends. On the basis of this vision we will try our best to help players enjoy league of legends. By getting a production key will make this happen faster.
+Our team’s goal is to help all league of legends players to keep track of meta, provide contents that players find it interesting and help new players to be attracted to league of legends. On the basis of this vision we will try our best to help players enjoy league of legends. By getting a production key will make this happen faster.
 
