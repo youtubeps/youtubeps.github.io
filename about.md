@@ -25,6 +25,9 @@ Our clip’s comment column and community channel is naturally working like a co
 
 Above mentioned strength made a synergy and made P.S Youtube channel to grow rapidly. A little after a year we’ve reached more than number of 80K subscribers. When we upload a video clip, we could see in many different community website and even in-game users are discussing about topic of our clips.
 
+You can check the stats & analytics dashboard of our Youtube channel in this link. 
+https://www.noxinfluencer.com/youtube/channel/UCqI5lyTpC79pOy2D-VXAMdA
+
 
 ## Partnership with Sandbox network
 <!-- 최근에는 한국의 Sandbox Network 와 파트너십을 체결하여 한국 뿐만아니라 전세계의 롤 유저들에게 통계, 관전 기반의 롤 정보 영상을 공유할 것이다. 또한 sandbox network 는 한국 내 샌드박스 게이밍으로 lol 팀을 운영하고 있을정도로 LoL 에 관심이 많으며 서로의 장점을 살려 더 나은 컨텐츠, 커뮤니티로 확장할 수 있도록 노력을 하고 있다.  -->
