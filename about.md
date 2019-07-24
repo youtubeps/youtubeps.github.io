@@ -25,8 +25,7 @@ Our clip’s comment column and community channel is naturally working like a co
 
 Above mentioned strength made a synergy and made P.S Youtube channel to grow rapidly. A little after a year we’ve reached more than number of 80K subscribers. When we upload a video clip, we could see in many different community website and even in-game users are discussing about topic of our clips.
 
-You can check the stats & analytics dashboard of our Youtube channel in this link. 
-https://www.noxinfluencer.com/youtube/channel/UCqI5lyTpC79pOy2D-VXAMdA
+You can check the stats & analytics dashboard of our Youtube channel in this [*link*](https://www.noxinfluencer.com/youtube/channel/UCqI5lyTpC79pOy2D-VXAMdA)
 
 
 ## Partnership with Sandbox network
