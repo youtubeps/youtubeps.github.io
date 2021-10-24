@@ -1,61 +1,47 @@
 
 ## Who are we ?
-Youtube Channel Link : [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
-
+We are members of PS Analytics Inc, a startup that analyzes statistics from games and provides informative features to the gamers to help them enjoy the games more interestingly.
 We are managing a Youtube channel called *“Professional Spectator”*, which shows the latest meta and play tips for Korean users by analyzing professional players’ plays and available statistical data.
+Youtube Channel Link : [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
+Also, we run a website called *lol.ps* to show the latest tier-list of champions and the statistics of items, skills, spells, etc. Those features help users to pick champion builds that performs well.  
+lol.ps Link : [lol.ps](https://lol.ps)
 
 
-## What do we do ? 
-We are uploading contents such as 
+# NoTrolls.ps
+## Service Objectives
+- Building healthy e-sports culture and healthy amateur ecosystem
 
-1. Patch notes.
-2. OP Champions from statistics.
-3. Introduction to New Meta.
-4. Strategies for each champion to learn through professional play. 
-5. Major news in a patch cycle that runs every two weeks. 
+## Service Overview
+- A formal online space where amateur teams can conveniently enjoy competing.
+- Provide teams with management system/tool to help teams stay active
+- Creating an amateur e-sports ecosystem in Korea by holding amateur tournaments and promoting local amateur tournaments.
 
- We are trying to keep track of useful and accurate tips based on statistics as much as possible, so the number of subscribers is rapidly increasing recent few months. So far, basic statistical data such as players’ match logs, win, pick and ban rates of each champion, tournament information and patch history have been gathered by referring to lolalytics, probuilds, op.gg (http://op.gg/), fow, champion.gg (http://champion.gg/) and qwer.gg (http://qwer.gg/). However, while running the youtube channel, we could know that there is a lot of information which cannot be obtained from above sites but many of the users wonder. So we started to consider accumulating data through Riot Development APIs and obtaining the statistical values directly needed for the contents.
+## Key Functions of The Service
+- Member registration with authenticating Member’s Riot account.
+- UI that can easily create, join and promote amateur teams and manage team members.
+- UI that allows easy registration and application of matches between teams.
+- A system that automatically saves the match results after the match and accumulates them to show the team performance.
+- A system that creates and displays team rankings based on team performance or activity score every quarter.
+- Provide team community pages and calendar UI for scheduling management to all teams.
 
+## APIs used and the target value gained from them
+1. API related to riot account authentication when signing up for service
+- /lol/summoner/v4/summoners/
+- /lol/third-party-code/
+- /lol/account/
+- When you sign up for the service, by verifying the rank tier of the user and allowing other users to view it, thereby preventing the camouflage tier user from adversely affecting the team game ecosystem.
+- To prevent smurf users (users who pretends to be in lower ranks) that adversely affect the team game ecosystem every user’s riot account will be verified and open to public for other users to easily view.
 
-## Examples of our contents
+2. API related to match(scrim) application and registration
+- /lol/tournament/
+- /lol/tournament-stub/
+- Team members and viewers of two teams’ scheduled match of quarterly team league and practice games can easily enter the game lobby using tournament code. Also, it allows automatic compiling of the match results in conjunction with match-v4 API.
 
-We are trying to provide our subscribers with useful and interesting information. The following are contents that we will upload.
+3. API for organizing Match(scrim) results and managing team performance
+- /lol/match/
+- After every match, collect information such as winning or losing, collecting objects, tower demolition, global golds, and the type of champion of each team member, KDA, amount of damage and healing, damage received, and kill contribution. This allows teams to know the cumulative wins and losses of each team and manage team rankings on a quarterly basis. Other teams can indirectly identify the champions they use, the individual capabilities of the team members, and prepare ban-pick strategies. Also, based on the results of the team's competition, we can develop training methods to improve team performance by conducting feedback within the teams.
 
-1. **Explaining latest patch note.**
-    
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=o9zjPn9g-rs
-    " target="_blank"><img src="http://img.youtube.com/vi/o9zjPn9g-rs/0.jpg" 
-    alt="patch_note" width="240" height="180" border="10" /></a>
-
-    After patch note has been released, we analyze and explain to users in many different angles why Riot had that patch.
-1. **Best mid-jungle synergy.**
-    
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=zDC5xRsWAY4
-    " target="_blank"><img src="http://img.youtube.com/vi/zDC5xRsWAY4/0.jpg" 
-    alt="bottom_duo" width="240" height="180" border="10" /></a>
-
-    By using Riot development api, we accumulate data and consistently provide information of ‘synergy’. In league of legends duo makes huge synergy, such as bottom duo, mid-jungle duo, and top-jungle duo. However we can easily find winning rate of solo play, but in case of synergy there are some obstacles. Moreover there are not many information or tips how players can use champions as duo effectively. So we focus on this information and periodically provide users with this information.
-1. **Blue team vs Purple team**
-    
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=7ei1fw6pp2U
-    " target="_blank"><img src="http://img.youtube.com/vi/7ei1fw6pp2U/0.jpg" 
-    alt="blue_vs_purple" width="240" height="180" border="10" /></a>
-
-    After accumulating data, our second content was something that can be useful and interesting to players. It’s comparing winning rate of Blue side and Purple side. Winning rate of Blue side and Purple side is 52:48 led by Blue side. This gap gets bigger when it comes to higher rank games. We explained this by conditional probability of Blue side’s advantage of objects and many players agreed with it. By reading comments we could also find out that bottom lane of Blue side is suffering from the interface covering part of the screen. 
-
-## To-do List
-
-There are a lot more contents that we are preparing right now. I believe if we could get a production key, we could provide more useful and more interesting information faster to users. Following contents are some contents that users are curious about, or could be useful to users. We are planning to accumulate data ourselves and by using that data we will analyze and share the result with users.
-
-1.  By champions, where is there dead zone?
-2.	How does First Blood affect the winning rate?
-3.	Where is the best spot for each position to ward?
-4.	How does AFK in first one minute affect the winning rate?
-5.	Comparing most popular bottom duo’s winning rate (champions not professional players)
-6.	Which position affect the most to winning rate?
-
-
-## Vision of our team
-
-Our team’s goal is to help all league of legends players to keep track of meta, provide contents that players find it interesting and help new players to be attracted to league of legends. On the basis of this vision we will try our best to help players enjoy league of legends. By getting a production key will make this happen faster.
-
+## The Necessity of the Service and Our Vision
+-	As the League of Legends e-sports (tournaments) develop and users get tired of problems (i.e., trolls) they face in the solo rank, their craving for team gaming experience that cannot be satisfied in the solo rank have increased. As a result, amateur teams of well-mannered team members are being created, and there are more and more League of Legends amateur competitions in which they can play.
+-	Many amateur teams are running their games inefficiently through discord servers, online communities, i.e., Coordinating their match appointments(scrim) without a systematic matching system and managing game results through handwriting. This limits the activities of amateur teams with problems such as no-show, smurf user issues (users who pretends to be in lower ranks), non-transparent team’s record or team’s performances, and inability to analyze detailed game content.
+-	This service helps users who want to enjoy the team game elements of League of Legends to easily team up with people who have similar skills and good manners. And it provides an online space where they can conveniently make match appointments(scrim) and devise strategies to improve team performance. With this service, we have a vision to encourage the activities of many amateur teams to create an online amateur ecosystem in which a second Faker like star player can be born.
