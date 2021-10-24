@@ -2,9 +2,12 @@
 ## Who are we ?
 We are members of PS Analytics Inc, a startup that analyzes statistics from games and provides informative features to the gamers to help them enjoy the games more interestingly.
 We are managing a Youtube channel called *“Professional Spectator”*, which shows the latest meta and play tips for Korean users by analyzing professional players’ plays and available statistical data.
-Youtube Channel Link : [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
+
+- Youtube Channel Link : [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
+
 Also, we run a website called *lol.ps* to show the latest tier-list of champions and the statistics of items, skills, spells, etc. Those features help users to pick champion builds that performs well.  
-lol.ps Link : [lol.ps](https://lol.ps)
+
+- lol.ps Link : [lol.ps](https://lol.ps)
 
 
 # NoTrolls.ps
