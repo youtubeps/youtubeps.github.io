@@ -11,7 +11,7 @@ permalink: /about/
 <!-- 
 우리는 데이터에 기반해서 모든 롤 유저들이 쉽게 메타를 따라가고 흥미를 느낄 수 있도록 정확하고 유용한 컨텐츠를 제공하려고 노력해왔다. 또한 1일 1개 이상의 영상을 올리기로 한 구독자와의 약속을 계속 지키고 있다. 우리는 이런 informative 컨텐츠를 꾸준히 올리고 있다는 점에 자부심을 갖고 있다. 실제로 2019년 7월 13일 기준 유튜브 채널 2천2백만뷰를 달성하였으며, 총 480개의 영상이 업로드되었다.  -->
 
-We’ve been trying to provide useful and accurate contents to help all League of Legends users to keep up with latest meta based on statistics and be interested in the game. Also we have a promise with our subscribers that we will upload one clip every day. We have pride in providing informative contents to our subscribers. As of July 13, 2019 we reached to 22 million views with 480 clips total. 
+We’ve been trying to provide useful and accurate contents to help all League of Legends users to keep up with latest meta based on statistics and be interested in the game. Also we have a promise with our subscribers that we will upload one clip every day. We have pride in providing informative contents to our subscribers. As of October 24, 2021 we reached to 214 million views with 1112 clips total. 
 
 ## Plays a Pivotal Role of a Good Community
 
@@ -23,12 +23,7 @@ Our clip’s comment column and community channel is naturally working like a co
 <!-- 
 위의 두 장점이 시너지를 일으켜서 P.S 유튜브 채널은 급격하게 성장할 수 있었다. 채널 개설 1년이 좀 넘은 시점에 구독자 8만명을 기록하였고, 영상을 오릴때마다 다수의 커뮤니티 뿐만 아니라 인게임에서도 자연스럽게 영상의 주제에 관하여 토론하는 모습을 볼 수 있다.  -->
 
-Above mentioned strength made a synergy and made P.S Youtube channel to grow rapidly. A little after a year we’ve reached more than number of 80K subscribers. When we upload a video clip, we could see in many different community website and even in-game users are discussing about topic of our clips.
+Above mentioned strength made a synergy and made P.S Youtube channel to grow rapidly. A little after a year we’ve reached more than number of 430K subscribers. When we upload a video clip, we could see in many different community website and even in-game users are discussing about topic of our clips.
 
 You can check the stats & analytics dashboard of our Youtube channel in this [*link*](https://www.noxinfluencer.com/youtube/channel/UCqI5lyTpC79pOy2D-VXAMdA)
 
-
-## Partnership with Sandbox network
-<!-- 최근에는 한국의 Sandbox Network 와 파트너십을 체결하여 한국 뿐만아니라 전세계의 롤 유저들에게 통계, 관전 기반의 롤 정보 영상을 공유할 것이다. 또한 sandbox network 는 한국 내 샌드박스 게이밍으로 lol 팀을 운영하고 있을정도로 LoL 에 관심이 많으며 서로의 장점을 살려 더 나은 컨텐츠, 커뮤니티로 확장할 수 있도록 노력을 하고 있다.  -->
-
-Recently we have signed partnership with Sandbox Network. This will help us to provide statistics and spectacle based videos to not only Korean users but also to users all around the world. Sandbox Network headquarters in Korea and have its own professional LOL team. By cooperating with Sandbox Network we are trying to provide better contents and extend the community.
