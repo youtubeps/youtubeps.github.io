@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Professional Spectator
-email: youtubeps@naver.com
-description:  Description of youtube channel "Professional Spectator"
+title: NoTrolls.ps
+email: wonkyung.lee@ps-analytics.com
+description:  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://youtubeps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: youtubeps
