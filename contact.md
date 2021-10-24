@@ -9,4 +9,4 @@ permalink: /contact/
 
 If you'd like to contact us, then please email here.
 
-- E-mail : [youtubeps@naver.com](youtubeps@naver.com)
+- E-mail : [wonkyung.lee@ps-analytics.com](wonkyung.lee@ps-analytics.com)
