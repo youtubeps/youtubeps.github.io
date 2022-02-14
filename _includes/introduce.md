@@ -10,14 +10,13 @@ Also, we run a website called *lol.ps* to show the latest tier-list of champions
 - lol.ps Link : [lol.ps](https://lol.ps)
 
 # tft-ps
-- We develop a website named tft-ps which provides useful statistics for tft players. 
-- Tft-ps tries to discover major compositions of champions and gives their pick-rates, win-rates, and deck-powers to the website users.
-- The users can decide which deck they are supposed to go on, based on the fluent statistics and information from our product. 
-- Also, the users can search the match histories of specific users and follow their decisions about compositions, items, or build-up methods.  
-- We use the APIs for TFT including tft-league, tft-match, and tft-summoner. 
-- We hope that the tft-ps becomes a great reference-site for all of the tft users.  
-- A demo site will be uploaded here if we collect data continuously using a riot-api key for the personal purpose.
-
+- We develop a website named “tft-ps” which provides the useful statistics to players of the team fight tactics.
+- We attempts to discover a major compositions of the champions and provides their basic statistics including pick-rates, win-rates, and deck-powers to the website users.
+- Before the match, the users can get the idea on each compositions of the champions based on the statistics and the information provided in our website, and can try the new decks which they haven’t experienced.
+- Also, the users can search the match histories of the specific user and follow their decisions on compositions, items, or build-up methods.
+- We use the APIs for TFT including tft-league, tft-match, and tft-summoner.
+- We hope that the tft-ps becomes a great reference-site for all the tft players.
+- A demo site will be uploaded here if we can collect the data continuously using a given riot-api key for the personal purpose.
 <!-- 
 # NoTrolls.ps
 ## Service Objectives
