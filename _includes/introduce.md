@@ -10,7 +10,7 @@ Also, we run a website called *lol.ps* to show the latest tier-list of champions
 - lol.ps Link : [lol.ps](https://lol.ps)
 
 # tft-ps
-- We develop a website named tft-ps which provides useful statistics for tft players when they are playing a game. 
+- We develop a website named tft-ps which provides useful statistics for tft players. 
 - Tft-ps tries to discover major compositions of champions and gives their pick-rates, win-rates, and deck-powers to the website users.
 - The users can decide which deck they are supposed to go on, based on the fluent statistics and information from our product. 
 - Also, the users can search the match history of a specific user and follow their decisions about a composition, items, or a build-up methods.  
