@@ -9,7 +9,16 @@ Also, we run a website called *lol.ps* to show the latest tier-list of champions
 
 - lol.ps Link : [lol.ps](https://lol.ps)
 
+# tft-ps
+- We develop a website named tft-ps which provides useful statistics for tft players when they are playing a game. 
+- Tft-ps tries to discover major compositions of champions and gives their pick-rates, win-rates, and deck-powers to the website users.
+- The users can decide which deck they are supposed to go on, based on the fluent statistics and information from our product. 
+- Also, the users can search the match history of a specific user and follow their decisions about a composition, items, or a build-up methods.  
+- We use the APIs for TFT including tft-league, tft-match, and tft-summoner. 
+- We hope that the tft-ps becomes a great reference-site for all of the tft users.  
+- A demo site will be uploaded here if we collect data continuously using a riot-api key for the personal purpose.
 
+<!-- 
 # NoTrolls.ps
 ## Service Objectives
 - Building healthy e-sports culture and healthy amateur ecosystem
@@ -47,4 +56,4 @@ Also, we run a website called *lol.ps* to show the latest tier-list of champions
 ## The Necessity of the Service and Our Vision
 -	As the League of Legends e-sports (tournaments) develop and users get tired of problems (i.e., trolls) they face in the solo rank, their craving for team gaming experience that cannot be satisfied in the solo rank have increased. As a result, amateur teams of well-mannered team members are being created, and there are more and more League of Legends amateur competitions in which they can play.
 -	Many amateur teams are running their games inefficiently through discord servers, online communities, i.e., Coordinating their match appointments(scrim) without a systematic matching system and managing game results through handwriting. This limits the activities of amateur teams with problems such as no-show, smurf user issues (users who pretends to be in lower ranks), non-transparent team’s record or team’s performances, and inability to analyze detailed game content.
--	This service helps users who want to enjoy the team game elements of League of Legends to easily team up with people who have similar skills and good manners. And it provides an online space where they can conveniently make match appointments(scrim) and devise strategies to improve team performance. With this service, we have a vision to encourage the activities of many amateur teams to create an online amateur ecosystem in which a second Faker like star player can be born.
+-	This service helps users who want to enjoy the team game elements of League of Legends to easily team up with people who have similar skills and good manners. And it provides an online space where they can conveniently make match appointments(scrim) and devise strategies to improve team performance. With this service, we have a vision to encourage the activities of many amateur teams to create an online amateur ecosystem in which a second Faker like star player can be born. -->
