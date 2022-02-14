@@ -13,7 +13,7 @@ Also, we run a website called *lol.ps* to show the latest tier-list of champions
 - We develop a website named tft-ps which provides useful statistics for tft players. 
 - Tft-ps tries to discover major compositions of champions and gives their pick-rates, win-rates, and deck-powers to the website users.
 - The users can decide which deck they are supposed to go on, based on the fluent statistics and information from our product. 
-- Also, the users can search the match history of a specific user and follow their decisions about a composition, items, or a build-up methods.  
+- Also, the users can search the match histories of specific users and follow their decisions about compositions, items, or build-up methods.  
 - We use the APIs for TFT including tft-league, tft-match, and tft-summoner. 
 - We hope that the tft-ps becomes a great reference-site for all of the tft users.  
 - A demo site will be uploaded here if we collect data continuously using a riot-api key for the personal purpose.
