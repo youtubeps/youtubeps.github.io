@@ -1,58 +1,23 @@
 
 ## Who are we ?
-We are members of PS Analytics Inc, a startup that analyzes statistics from games and provides informative features to the gamers to help them enjoy the games more interestingly.
-We are managing a Youtube channel called *“Professional Spectator”*, which shows the latest meta and play tips for Korean users by analyzing professional players’ plays and available statistical data.
+We are part of PS Analytics Inc, a startup that analyzes game statistics and provides useful features to enhance the gaming experience for players. One of our projects is managing a YouTube channel called "Professional Spectator," which offers Korean users the latest meta and gameplay tips by analyzing professional players' matches and statistical data.
 
-- Youtube Channel Link : [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
+You can find our YouTube channel here: [Professional Spectator](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA?view_as=subscriber)
 
-Also, we run a website called *lol.ps* to show the latest tier-list of champions and the statistics of items, skills, spells, etc. Those features help users to pick champion builds that performs well.  
-
+In addition, we operate a website called lol.ps that showcases the latest tierlist of champions and statistics for items, skills, spells, and more. These features help players select champion builds that perform well in the game.
+Additionally, we have also developed and operate a website called tftps.gg which provides useful deck statistics and tier lists for the Teamfight Tactics. This website helps users to optimize their gameplay by selecting the most effective strategies and builds.
 - lol.ps Link : [lol.ps](https://lol.ps)
+- tftps.gg Link : [tftps.gg](https://tftps.gg)
 
-# tft-ps
-- We develop a website named “tft-ps” which provides the useful statistics to players of the team fight tactics.
-- We attempts to discover a major compositions of the champions and provides their basic statistics including pick-rates, win-rates, and deck-powers to the website users.
-- Before the match, the users can get the idea on each compositions of the champions based on the statistics and the information provided in our website, and can try the new decks which they haven’t experienced.
-- Also, the users can search the match histories of the specific user and follow their decisions on compositions, items, or build-up methods.
-- We use the APIs for TFT including tft-league, tft-match, and tft-summoner.
-- We hope that the tft-ps becomes a great reference-site for all the tft players.
-- A demo site will be uploaded here if we can collect the data continuously using a given riot-api key for the personal purpose.
-<!-- 
-# NoTrolls.ps
-## Service Objectives
-- Building healthy e-sports culture and healthy amateur ecosystem
+# VALPS.GG
+VALPS.GG is a comprehensive tool for players to search for their match history, analyze their play-style, and receive personalized agent recommendations based on their performance.
 
-## Service Overview
-- A formal online space where amateur teams can conveniently enjoy competing.
-- Provide teams with management system/tool to help teams stay active
-- Creating an amateur e-sports ecosystem in Korea by holding amateur tournaments and promoting local amateur tournaments.
+One of the main features of VALPS.GG is its ability to provide useful statistics to users. Users can view the recent win rates of agents and weapons on specific maps and regions. Our product aims to help users make more informed decisions by providing them with valuable insights into their performance.
 
-## Key Functions of The Service
-- Member registration with authenticating Member’s Riot account.
-- UI that can easily create, join and promote amateur teams and manage team members.
-- UI that allows easy registration and application of matches between teams.
-- A system that automatically saves the match results after the match and accumulates them to show the team performance.
-- A system that creates and displays team rankings based on team performance or activity score every quarter.
-- Provide team community pages and calendar UI for scheduling management to all teams.
+For example, our product is similar to "LOL.PS" for League of Legends, which is a statistical analysis tool designed for beginning players. Our product aims to help players of all levels improve their gameplay by providing detailed statistics and personalized recommendations based on their performance. We plan to use the val-match-v1 API to provide users with the necessary data to make informed decisions.
 
-## APIs used and the target value gained from them
-1. API related to riot account authentication when signing up for service
-- /lol/summoner/v4/summoners/
-- /lol/third-party-code/
-- /lol/account/
-- When you sign up for the service, by verifying the rank tier of the user and allowing other users to view it, thereby preventing the camouflage tier user from adversely affecting the team game ecosystem.
-- To prevent smurf users (users who pretends to be in lower ranks) that adversely affect the team game ecosystem every user’s riot account will be verified and open to public for other users to easily view.
+We are excited to provide our users with the best possible experience and help them improve their gameplay.
 
-2. API related to match(scrim) application and registration
-- /lol/tournament/
-- /lol/tournament-stub/
-- Team members and viewers of two teams’ scheduled match of quarterly team league and practice games can easily enter the game lobby using tournament code. Also, it allows automatic compiling of the match results in conjunction with match-v4 API.
+Unfortunately, we were unable to create a demo page on the valps.gg domain as we have not yet received approval for the val-match-v1 API. As a result, we are providing the introductory page of our site.
 
-3. API for organizing Match(scrim) results and managing team performance
-- /lol/match/
-- After every match, collect information such as winning or losing, collecting objects, tower demolition, global golds, and the type of champion of each team member, KDA, amount of damage and healing, damage received, and kill contribution. This allows teams to know the cumulative wins and losses of each team and manage team rankings on a quarterly basis. Other teams can indirectly identify the champions they use, the individual capabilities of the team members, and prepare ban-pick strategies. Also, based on the results of the team's competition, we can develop training methods to improve team performance by conducting feedback within the teams.
 
-## The Necessity of the Service and Our Vision
--	As the League of Legends e-sports (tournaments) develop and users get tired of problems (i.e., trolls) they face in the solo rank, their craving for team gaming experience that cannot be satisfied in the solo rank have increased. As a result, amateur teams of well-mannered team members are being created, and there are more and more League of Legends amateur competitions in which they can play.
--	Many amateur teams are running their games inefficiently through discord servers, online communities, i.e., Coordinating their match appointments(scrim) without a systematic matching system and managing game results through handwriting. This limits the activities of amateur teams with problems such as no-show, smurf user issues (users who pretends to be in lower ranks), non-transparent team’s record or team’s performances, and inability to analyze detailed game content.
--	This service helps users who want to enjoy the team game elements of League of Legends to easily team up with people who have similar skills and good manners. And it provides an online space where they can conveniently make match appointments(scrim) and devise strategies to improve team performance. With this service, we have a vision to encourage the activities of many amateur teams to create an online amateur ecosystem in which a second Faker like star player can be born. -->
